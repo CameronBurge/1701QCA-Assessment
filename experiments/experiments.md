@@ -15,7 +15,7 @@
 
 ![Image](Exp1.JPG)
 
-(Insert a caption here)
+Connection buttons
 
 #### Reflection ####
 
@@ -25,69 +25,69 @@ This experiment could be the basis of a real world application such as some sort
 
 ### Experiment name ###
 
-(experiment 2)
+(Experiment 2)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Exp2.JPG)
 
-(Insert a caption here)
+Sunlight detector
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how changing the code can make the phototransister more or less sensitive to light.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as automatic lights. as the daylight gets darker it could adjust artificial lights to brighten a room.
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 3
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Exp3.JPG)
 
-(Insert a caption here)
+Adjustable light
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was using a dial to adjust the brightness of the light.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as household lights.
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 4
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Exp4.JPG)
 
-(Insert a caption here)
+Looping a fan
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to create forever loops.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as things likes airconditioning or pool filters, telling them to turn on and puase off for a certtain amount of time.
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 6
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Exp6.JPG)
 
-(Insert a caption here)
+creating noise
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to microbit speaker works.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as childrens toys that make sound.
 
