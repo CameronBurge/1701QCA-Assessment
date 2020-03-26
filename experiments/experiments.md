@@ -8,12 +8,12 @@
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+(Experiment 1)
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](Exp1.JPG)
 
 (Insert a caption here)
 
