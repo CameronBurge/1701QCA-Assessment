@@ -19,13 +19,13 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was the basics when it come to connecting wires from differnt pins to create a circit.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as some sort of simple interaction toy for pets to get different rewards and things.
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+(experiment 2)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
