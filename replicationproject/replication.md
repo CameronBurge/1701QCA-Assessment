@@ -20,40 +20,40 @@ https://librarymakers.net/piano-keyboard-makey-makey
 This project is related to mine because its a very similar preject except using many bananas instead of one and its also made with a MayKey MaKey. im going to try ad use this to help add to my banana keyboard rather then using a single banana.
 
 ### Related project 2 ###
+microbit electro football
 
+https://make.techwillsaveus.com/microbit/activities/microfootball
 
-(Insert URL to project)
+![Image](related3.png)
 
-![Image](missingimage.png)
-
-This project is related to mine because (insert reasons here).
+This project is related to mine because this project also uses a micro bit and forces the user to get involved, the outcome of the project on each use is dependant on the user rather then a forever loop that repeats actions on start.
 
 ### Related project 3 ###
-(Insert name of project)
+1000 BBC Micro:bit display
 
-(Insert URL to project)
+https://www.kitronik.co.uk/blog/building-the-bbc-microbit-matrix-display/
 
-![Image](missingimage.png)
+![Image](related4.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it also uses the microbit, though on a much larger scale. it uses one mastermind microbit to communicate to all others allowing the user to display messages on a board made up of 1000 microbits..
 
 ### Related project 4 ###
-(Insert name of project)
+playdough controller
 
-(Insert URL to project)
+https://makeymakey.com/blogs/how-to-instructions/create-a-controller-to-plug-and-play-1
 
-![Image](missingimage.png)
+![Image](Related2.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it forces the user to interact with the play dough buttons, like the banana keyboard but instead its a controller.
 
 ### Related project 5 ###
-(Insert name of project)
+Juggling with the BBC micro:bit
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=OLzhXRwUhrw
 
-![Image](missingimage.png)
+![Image](related5.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it too is an interactive project using the microbit. using the accelerometre in the microbit they are able to send data to a graph where we can see the movement of the microbit.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
