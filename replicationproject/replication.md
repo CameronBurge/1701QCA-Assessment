@@ -118,31 +118,34 @@ my project could be seen as a concept for a different larger and more in depth p
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
-*This should have quite a lot of information!*
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+![Image](Progress1.JPG)
+i was testing the speaker connection out. i also tested the circuit connection by connecting a wire to pin 1 and another to ground and seeing if touhing each wire would trigger the speaker which it did.
 
-![Image](missingimage.png)
+![Image](Progress2.JPG)
+Here i had all three pins connected and one on ground. by touching the ground and one of the wires connecting to the pin i was able to make them each play a different note. now i just had to attach the fruit and make the project look a bit more pleasing to the eye.
 
-*Include screenshots of the code you have used.*
+![Image](Progress3.JPG)
+these were the pannels of cardboard im using to cover up the circit. ive left a hole in what will be the roof for the sound to escape.
 
+![Image](FinalCode.png)
+the final code ive used for the kyeboard
 ## Project outcome ##
 
 *Complete the following information.*
 
-### Project title ###
+### Keyboard of fruit ###
 
-### Project description ###
+###  a keyboard that responds to differnt fruits being touched  ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+*this keyboard is made up of three different fruits that when touch, each make a unique sound. it would be used for kids to interact with, and could even be programed to say the name of the fruit on touch.*
 
 ### Showcase image ###
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](Final.JPG)
 
 ### Additional view ###
 
@@ -154,11 +157,16 @@ my project could be seen as a concept for a different larger and more in depth p
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
+i think the most succsesfull part of the project was the cardboard cut outs i made to hide the circit, though the downfall was the horrible job i did on gluing them together.
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
+i found that the project that used the user to complete a circit were very helpful. i had no idea that we could do that
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
+i saw a playdough controler someone had made in a very similar fashion to this and thought it would be cool to add many different fruits rather then just one fruit that made one sound
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+
+making the speaker say the names of thr fruit would be cool and then it would make a cool toy for kids.
