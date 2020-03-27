@@ -96,11 +96,19 @@ my project is designed to have one function, to press a button and make a sound
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+i thought that to be a designer you had to be an expert at codeing.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+its important for a designer to be able to communicate concepts well in order to be scaled up and extended when needed.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+id like to know more about the research that goes into coding projects.
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+my project could be seen as a concept for a different larger and more in depth project.
 
 
 ## Interaction flowchart ##
