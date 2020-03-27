@@ -62,23 +62,35 @@ This project is related to mine because it too is an interactive project using t
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+i learned that feedback communication is essential to be imideate because if its not people can give up and move on.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+how someone with a different kind of life or a disability interact and think about things that are presented to them.
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+the banana keyboard forces the user to think a little and physicaly interact with it to understand how it works with no insruction.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+before i overlooked many devices, but after reading and thinking about them they are very lifesaving.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+i learned that there are four parts to a micro interaction, the trigger, the rules, feedback and the loops
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+what goes on behind the scenes when designing one of these
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+my project is designed to have one function, to press a button and make a sound
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
